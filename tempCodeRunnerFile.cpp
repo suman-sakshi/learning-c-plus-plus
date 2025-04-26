@@ -1,8 +1,4 @@
- // cout << ++*p<<endl;
-    // p++;
-    // cout << *p<<endl;
-    // p--;
-    // cout << *p<<endl;
-    // cout << *(p+2)<<endl;
-    // cout << (p)<<endl;
-    // cout << (p+1)<<endl;
+display();
+    float x = 3.5, y = 7.9, z;
+    z = add(x, y);
+    cout << z;
